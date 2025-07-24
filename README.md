@@ -5,7 +5,7 @@ I'm a passionate **Software Engineer** with a deep enthusiasm for technology, in
 ## 💻 About Me
 - 🌱 I’m always learning and experimenting with new languages, frameworks, and technologies.
 - 💡 I love collaborating and brainstorming solutions for interesting technical challenges.
-- 💬 I’m open to discussing anything tech-related—from architecture and coding practices to the latest trends in the industry.
+- 💬 I’m open to discussing anything tech-related, from architecture and coding practices to the latest trends in the industry.
 - 🤝 I believe in the power of community and enjoy contributing to open-source projects.
 
 ## 🚀 Let’s Connect!
